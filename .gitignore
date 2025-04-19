@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/meejleatt
+meejleatt.so
+meejleatt.dylib
+meejleatt.dll
+meejleatt.a
+meejleatt.lib
+meejleatt-test-*
+*.exe
+*.o
+*.obj
+*.lst
